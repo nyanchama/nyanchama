@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a passionate web and app developer.
+I am a passionate web, app and AI developer.
 - :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nyanchama/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-grey?style=flat&logo=Gmail&logoColor=red)](mailto:obaranyanchama1@gmail.com)
 
 ---
